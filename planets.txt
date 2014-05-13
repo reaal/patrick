@@ -1,4 +1,5 @@
-Mercury
+Mercury #small and speedy
 Venus #cloudy 
 Earth
+Jupiter # too expensive
 Pluto # is this still a planet?
