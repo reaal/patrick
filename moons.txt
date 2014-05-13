@@ -1,4 +1,4 @@
-Phobis
-Io
+Phobis # no info
+Io # Jupiter
 The Moon
-Ganymede
+Ganymede #Jupiter
