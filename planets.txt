@@ -1,3 +1,4 @@
 Mercury
+Venus #cloudy 
 Earth
-Pluto
+Pluto # is this still a planet?
