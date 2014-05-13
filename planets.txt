@@ -1,5 +1,7 @@
 Mercury #small and speedy
+Mars # the war planet
 Venus #cloudy 
 Earth
+Moon # not a planet, but related to Earth
 Jupiter # too expensive
 Pluto # is this still a planet?
